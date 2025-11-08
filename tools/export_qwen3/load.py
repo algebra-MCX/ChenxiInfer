@@ -1,9 +1,3 @@
-"""
-Weight Loading Utility for Qwen3 Model
-Author: Bound
-Date: May 5, 2025
-Version: 1.0
-"""
 
 import torch
 from tqdm import tqdm

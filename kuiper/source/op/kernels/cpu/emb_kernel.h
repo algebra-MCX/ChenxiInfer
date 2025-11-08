@@ -1,6 +1,4 @@
-//
-// Created by fss on 24-6-7.
-//
+
 
 #ifndef KUIPER_INFER_EMB_KERNEL_H
 #define KUIPER_INFER_EMB_KERNEL_H

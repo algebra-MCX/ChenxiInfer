@@ -1,6 +1,3 @@
-//
-// Created by hello on 2024/5/2.
-//
 
 #ifndef KUIPER_INCLUDE_OP_MATMUL_H_
 #define KUIPER_INCLUDE_OP_MATMUL_H_

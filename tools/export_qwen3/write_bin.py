@@ -1,9 +1,4 @@
-"""
-Interactive Script for Running Qwen3 Model
-Author: Bound
-Date: May 30, 2025
-Version: 1.0
-"""
+
 import struct
 import torch
 import argparse
